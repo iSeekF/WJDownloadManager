@@ -1,0 +1,2 @@
+# WJDownloadManager
+Download use NSURLSessionDownloadTask
